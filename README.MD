@@ -1,0 +1,2 @@
+# Hyprdots on Arch Vanilla.
+
