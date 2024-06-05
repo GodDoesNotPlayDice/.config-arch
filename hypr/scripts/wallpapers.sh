@@ -1,6 +1,6 @@
 intervals=10
 while true; do
-    dir=~/lwalpapers/wallpapers
+    dir=~/Documents/Wallpapers/wallpappers/
     numbers=$(ls $dir | grep -oP 'b-\K\d+')
     random_number=$(echo "$numbers" | shuf -n 1)
 
