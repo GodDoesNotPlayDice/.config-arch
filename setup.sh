@@ -18,6 +18,7 @@ mkdir ~/Documents ~/Downloads ~/Music ~/Pictures ~/Videos ~/Projects
 
 ## Config Hyprdots
 cp -rf ~/.config-arch/hypr/ ~/.config/
+chmod +x ~/.config/hypr/scripts/*
 
 ## Configuración de Alacritty
 cp -rf ~/.config-arch/alacritty/ ~/.config/
